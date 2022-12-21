@@ -5,4 +5,4 @@
 <br/>**Colocar iconos de redes sociales**</br>
 <br/>**Colocar imagenes con bordes redondeados**</br>
 <br>**Colocar la foto en el menu desplegable en forma redonda**</br>
-<br/>**Realizar unos pequeños diseñosde cambio de color entre otras cosas**</br>
+<br/>**Realizar unos pequeños diseños de cambio de color entre otras cosas**</br>
